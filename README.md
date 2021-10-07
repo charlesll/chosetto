@@ -4,13 +4,13 @@ CHOSETTO.exe is a windows-based program to compute degassing of H2O, CO2, SO2 an
 
 # Code authors
 
-Roberto Moretti, IPGP Paris, France, moretti@ipgp.fr
-Paolo Papale, INGV Pisa, Italy
+- Roberto Moretti, IPGP Paris, France, moretti@ipgp.fr
+- Paolo Papale, INGV Pisa, Italy
 
 # Collaborators
 
-Giulio Ottonello (Univ. Genova, Italy) 
-Charles Le Losq (Univ. Paris, IPGP, France)
+- Giulio Ottonello (Univ. Genova, Italy) 
+- Charles Le Losq (Univ. Paris, IPGP, France)
 
 # Instructions
 
