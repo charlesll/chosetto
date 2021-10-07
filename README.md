@@ -1,11 +1,17 @@
 # chosetto
 
-A tool to compute magma degassing in the H2O-CO2-H2S-SO2-melt system
+CHOSETTO.exe is a windows-based program to compute degassing of H2O, CO2, SO2 and H2S in magmatic melts. It also computes the FeO/Fe2O3 redox ratio, the amounts of sulfur dissolved as sulfide and sulfate and thus the S-redox ratio.
 
-# Developer
+# Code authors
 
-Roberto Moretti, moretti@ipgp.fr
+Roberto Moretti, IPGP Paris, France, moretti@ipgp.fr
+Paolo Papale, INGV Pisa, Italy
+
+# Collaborators
+
+Giulio Ottonello (Univ. Genova, Italy) 
+Charles Le Losq (Univ. Paris, IPGP, France)
 
 # Instructions
 
-See the PDF file for the documentation
+See the PDF file for the documentation.
