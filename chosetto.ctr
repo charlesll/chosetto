@@ -1,0 +1,16 @@
+0 0.2
+1
+6 6 1
+1.
+2
+490.1 529.
+80.1 119.
+
+
+LEGEND: 
+VAR1 VAR2                      : choose between open (1) and closed (0) system degassing. If kdegas=1 it adopts the quantity gfrac (0<x<1)
+VAR3                           : 1 for taking input fO2 as delta NNO; 2 for fixed FeO/Fe2O3; 3 for fixed fH2S/fSO2
+VAR4(line_x) VAR5(line_y) VAR6 : lines to process; if kloop=1 makes P loop; ksul is for mass balances of oxygen in SO42- anions
+VAR7                           : fH2S/fSO2 ratio
+VAR8                           : number of pressure jumps (pressure intervals to skip)
+VAR9 VAR 10                    : limits of the P interval to skip (as many lines as npjump)
